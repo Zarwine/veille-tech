@@ -52,7 +52,6 @@
 - **Alysone Neyret :** Très accès sur l'encadrement de junior et la reconversion pro
 - **Pierre Ricard :** Un junior avec du peps qui partage plusieurs fois par semaine ce qu'il découvre
 - **Sylvain Bastid :** Le batman de linkedin, il débat souvent publiquement et c'est interessant de suivre les conversations
-- **Wassim samad :** C'est plutôt en privé que j'échange avec lui, ou via Facebook
 - **Rudy Onfroy :** De chez Capcar, présente beaucoup de concepts autour du developpement d'application et parfois plus large
 - **François Pelletier :** Touche un peu à tout
 - Et d'autres : **Joel Chrabie**, **Martin siesse**, **Victor billette de villemeur**...
