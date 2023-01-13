@@ -16,11 +16,11 @@
 - **DevelopedByEd :** https://www.youtube.com/@developedbyed 
   - Autrefois Deved, propose des tips sympa pour le front. Globalement ses vidéos sont légères et ciblent du contenu toujours intéressant
 - **Wawa Sensei :** https://www.youtube.com/@WawaSensei
-  - Une personne que j'ai rencontré sur le groupe de dev facebook que j'administre. C'est une chaine devblog avec parfois des tutos. 
+  - Une chaine devblog avec parfois des tutos sympa
 - **Donkey Geek :** https://www.youtube.com/@DonkeyGeek/videos
   - Une chaine autrefois exceptionnelle avec des supers tutos pour React. Je la mets ici vraiment juste pour la citer, il a rendu la majeure parti de son contenu payant sur Udemy. C'est une valeure sûre !
 - **TonyGo :** https://www.youtube.com/@tonygo
-  - La chaine d'une personne très sympa que j'ai rencontré sur linkedin, c'est un devblog avec quelques tutos où il se positionne en junior coaché par un pro.  
+  - La chaine d'une personne très sympa également présent sur linkedin, c'est un devblog avec quelques tutos où il se positionne en junior coaché par un pro.  
 - **La minute agile :** https://www.youtube.com/@LaMinuteAgile
   - Contenu assez généraliste et bien présenté. Il va au dela du dev et traite de plein de sujets autour de la tech  
 - **Ben Open :** https://www.youtube.com/@BenOpen
