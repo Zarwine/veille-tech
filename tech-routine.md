@@ -7,7 +7,7 @@
   - Une chaine très solide, parfois un peu lourde, sur le devops en règle générale. Cela m'a beaucoup servi pour mettre en place un container docker téléchargeable directement via l'interface AWS. Très bien expliqué
 - **Xavki :** https://www.youtube.com/@xavki
   - Du contenu très lourd sur le devops, qui part souvent de très loin pour expliquer quelque chose. Du contenu pertinent qui nécessite beaucoup de concentration! 
-- **Garfikart :** https://www.youtube.com/@grafikart
+- **Grafikart :** https://www.youtube.com/@grafikart
   - Incontrounable. Des guides en français bien solides qui proposent vraiment de faire le tour de certaines tech 
 - **Kodaps :** https://www.youtube.com/@kodaps_fr
   - Des vidéos plus légères mettants en scène des concepts clés. Du contenu appréciable à regarder tranquillement, de la vulgarisation informatique
